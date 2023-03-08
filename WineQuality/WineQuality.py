@@ -33,6 +33,6 @@ from IPython.display import Image
 
 #Importação do DATASET
 
-data = pd.read_csv('/data/winequality-red.csv', sep=';')
+data = pd.read_csv('winequality-red.csv', sep=';')
 
 data

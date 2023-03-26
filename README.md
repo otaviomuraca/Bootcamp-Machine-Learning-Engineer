@@ -10,6 +10,11 @@ Bootcamp Machine Learning Engineer at IGTI XPE
 
 # Módulo 2
 
+### <a href="###"><b>Bike Rentals</b></a>
+- Essa atividade aplica métodos de Machine Learning, como KNN, Decision Tree Learning, Random Forest, SVN and MLP (Multiplayer Perceptron), a fim de verificar se uma nota é real ou falsificada.
+- This activity applies Machine Learning methods, such as KNN, Decision Tree Learning, Random Forest, SVN and MLP (Multiplayer Perceptron), in order to verify if a bills is real or counterfeit.
+
+
 ### <a href="https://github.com/otaviomuraca/Bootcamp-Machine-Learning-Engineer/blob/e41bf6c0152aa5aedd4ecb2aa000c1f21f4e1e7e/Mo%CC%81dulo%202/NotasReaisFalsificadas.ipynb"><b>Cédulas Reais/Falsificadas</b></a>
 - Essa atividade aplica métodos de Machine Learning, como KNN, Decision Tree Learning, Random Forest, SVN and MLP (Multiplayer Perceptron), a fim de verificar se uma nota é real ou falsificada.
 - This activity applies Machine Learning methods, such as KNN, Decision Tree Learning, Random Forest, SVN and MLP (Multiplayer Perceptron), in order to verify if a bills is real or counterfeit.

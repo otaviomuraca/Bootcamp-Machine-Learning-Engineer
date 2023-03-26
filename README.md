@@ -2,7 +2,7 @@
 
 ## Projects - Módulo 1
 
-### <a href="https://github.com/otaviomuraca/Bootcamp-Machine-Learning-Engineer/blob/main/WineQuality/IGTI_M%C3%B3dulo_1_WineQuality.ipynb"><b>Wine Quality</b></a>
+### <a href="https://github.com/otaviomuraca/Bootcamp-Machine-Learning-Engineer/blob/c999b59fcf346e9353ae92f860602a295e92f654/Mo%CC%81dulo%201/WineQuality.ipynb"><b>Wine Quality</b></a>
 - Essa atividade aplica métodos de Machine Learning, como KNN, Decision Tree Learning, Random Forest, SVN and MLP (Multiplayer Perceptron), a fim de encontrar a melhor qualidade para um vinho, segundo suas características.
 - This activity applies Machine Learning methods, such as KNN, Decision Tree Learning, Random Forest, SVN and MLP (Multiplayer Perceptron), in order to find the best quality for a wine, according to its characteristics.
 

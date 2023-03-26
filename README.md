@@ -1,5 +1,4 @@
-# Bootcamp-Machine-Learning-Engineer
-Bootcamp Machine Learning Engineer at IGTI XPE
+# Bootcamp Machine Learning Engineer at IGTI XPE
 
 # Projects
 # Módulo 1
